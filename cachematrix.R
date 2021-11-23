@@ -1,8 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## We are going to write functions that let us cache the inverse of a matrix
-## If we already have the inverse of matrix
+## Following functions let us create a matrix, solve for and cache its inverse
+## If the inverse of that matrix is already computed
 ## the system doesn't need to compute it again and rather fetch it from cache
 
 ## Write a short comment describing this function
